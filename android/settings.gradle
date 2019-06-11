@@ -1,0 +1,3 @@
+rootProject.name = 'uplift_your_day_4502'
+
+include ':app'

@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT uplift_your_day_4502.wsgi:application
